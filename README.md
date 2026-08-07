@@ -64,6 +64,9 @@ The system uses a relational MySQL database including the following tables:
 
 ### Charity Dashboard
 ![Charity Dashboard](charity-dashboard.png)
+
+### How the System Works
+![How the System Works](How%20the%20System%20Works.png)
 ## 👩‍💻 Developer
 
 **Badriah**
