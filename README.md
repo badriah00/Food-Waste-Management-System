@@ -50,8 +50,20 @@ The system uses a relational MySQL database including the following tables:
 
 ## 📷 Screenshots
 
-> Screenshots of the system interfaces can be added here.
+### Home Page
+![Home Page](home.png)
 
+### Login Page
+![Login Page](login.png)
+
+### Administrator Dashboard
+![Administrator Dashboard](admin-dashboard.png)
+
+### Donor Dashboard
+![Donor Dashboard](donor-dashboard.png)
+
+### Charity Dashboard
+![Charity Dashboard](charity-dashboard.png)
 ## 👩‍💻 Developer
 
 **Badriah**
