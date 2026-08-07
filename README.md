@@ -57,13 +57,13 @@ The system uses a relational MySQL database including the following tables:
 ![Login Page](login.png)
 
 ### Administrator Dashboard
-![Administrator Dashboard](admin-dashboard.png)
+![Administrator Dashboard](AdministratorDashboard.png)
 
 ### Donor Dashboard
-![Donor Dashboard](donor-dashboard.png)
+![Donor Dashboard](DonorDashboard.png)
 
 ### Charity Dashboard
-![Charity Dashboard](charity-dashboard.png)
+![Charity Dashboard](CharityDashboard.png)
 
 ### How the System Works
 ![How the System Works](How%20the%20System%20Works.png)
