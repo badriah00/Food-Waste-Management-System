@@ -51,10 +51,10 @@ The system uses a relational MySQL database including the following tables:
 ## 📷 Screenshots
 
 ### Home Page
-![Home Page](HomePage.png)
+![Home Page](Home%20Page.png)
 
 ### Login Page
-![Login Page](Login_page.png)
+![Login Page](Login%20page.png)
 
 ### Administrator Dashboard
 ![Administrator Dashboard](Administrator%20Dashboard.png)
