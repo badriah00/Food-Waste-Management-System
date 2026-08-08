@@ -51,7 +51,7 @@ The system uses a relational MySQL database including the following tables:
 ## 📷 Screenshots
 
 ### Home Page
-![Home Page](Home_page.png)
+![Home Page](HomePage.png)
 
 ### Login Page
 ![Login Page](Login_page.png)
